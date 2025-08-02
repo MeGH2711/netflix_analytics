@@ -89,9 +89,6 @@ All visualizations were created using `matplotlib` and `seaborn`.
 
 ---
 
-
----
-
 ## 📌 Future Work Ideas
 
 - Build a **dashboard** using Streamlit
